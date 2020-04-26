@@ -1,6 +1,5 @@
 package org.apache.dubbo.config.spring.beans.factory.annotation;
 
-import com.alibaba.boot.dubbo.context.event.AwaitingNonWebApplicationListener;
 import com.alibaba.dubbo.config.*;
 import org.apache.dubbo.config.spring.ServiceBean;
 import org.apache.dubbo.config.spring.context.annotation.DubboClassPathBeanDefinitionScanner;

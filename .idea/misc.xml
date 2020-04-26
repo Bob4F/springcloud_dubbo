@@ -3,10 +3,13 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/parent/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-nacos/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-core/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/pom.xml" />
+        <option value="$PROJECT_DIR$/parent/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>

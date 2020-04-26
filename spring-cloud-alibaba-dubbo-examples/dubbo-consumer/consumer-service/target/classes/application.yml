@@ -1,0 +1,27 @@
+spring:
+  main:
+    allow-bean-definition-overriding: true
+  application:
+    name: consumer
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 47.92.86.79:8848
+
+server:
+  port: 10201
+
+dubbo:
+  application:
+    name: consumer
+    qos-enable: false
+  registry:
+    address: nacos://47.92.86.79:8848
+  scan:
+    basePackages: com.cuco.dubbo.consumer.service
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

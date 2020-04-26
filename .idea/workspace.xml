@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7cfe8af8-6eb9-489c-bcde-1e596e56c489" name="Default Changelist" comment="" />
+    <list default="true" id="34e557da-b73e-4c50-9b48-aa860a337546" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-core/src/main/java/com/cuco/dubbo/core/SpringCloudAlibabaDubboAutoConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-core/src/main/java/org/apache/dubbo/config/spring/beans/factory/annotation/DubboFeignBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-core/src/main/resources/META-INF/spring.factories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/dubbo-consumer/consumer-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/dubbo-consumer/consumer-service/src/main/java/com/cuco/dubbo/consumer/ConsumerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/dubbo-consumer/consumer-service/src/main/java/com/cuco/dubbo/consumer/service/TestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/dubbo-consumer/consumer-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/dubbo-consumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/provider/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/provider/provider-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/provider/provider-api/src/main/java/com/cuco/dubbo/service/FooService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/provider/provider-api/src/main/java/com/cuco/dubbo/service/ProviderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/provider/provider-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/provider/provider-service/src/main/java/com/cuco/dubbo/provider/service/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/provider/provider-service/src/main/java/com/cuco/dubbo/provider/service/impl/FooServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/provider/provider-service/src/main/java/com/cuco/dubbo/provider/service/impl/ProviderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/provider/provider-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-nacos/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-starter/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/parent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parent/spring-cloud-alibaba-dubbo-dependencies.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-core/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-core/spring-cloud-alibaba-dubbo-core.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-core/src/main/java/org/apache/dubbo/config/spring/beans/factory/annotation/FeignClientToDubboProviderBeanPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-core/src/main/java/org/apache/dubbo/config/spring/beans/factory/annotation/FeignClientToDubboProviderBeanPostProcessor.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,30 +36,61 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="userSettingsFile" value="F:\JavaTool\apache-maven-3.5.4\conf\settings.xml" />
-      </MavenGeneralSettings>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1ayyKHdpf7YmFGsDbeLvr1arioP" />
+  <component name="ProjectId" id="1b4GZ8dg5x0ZgLu9WjxYJTax2Ka" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/provider/provider-service/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.ConsumerApplication">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cuco.dubbo.provider.service.Application" />
+      <module name="provider-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cuco.dubbo.provider.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cuco.dubbo.consumer.ConsumerApplication" />
+      <module name="consumer-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cuco.dubbo.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConsumerApplication" />
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -52,50 +109,42 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7cfe8af8-6eb9-489c-bcde-1e596e56c489" name="Default Changelist" comment="" />
-      <created>1587722062728</created>
+      <changelist id="34e557da-b73e-4c50-9b48-aa860a337546" name="Default Changelist" comment="" />
+      <created>1587884004917</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1587722062728</updated>
+      <updated>1587884004917</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="312" y="90" key="#Project_Structure" timestamp="1587722342737">
+    <state x="439" y="237" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587884164311">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="312" y="90" key="#Project_Structure/0.0.1440.860@0.0.1440.860" timestamp="1587722342737" />
-    <state x="500" y="187" key="FileChooserDialogImpl" timestamp="1587722413599">
+    <state x="439" y="237" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860@0.0.1440.860" timestamp="1587884164311" />
+    <state x="571" y="321" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1587884108936">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="500" y="187" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1587722413599" />
-    <state width="1396" height="126" key="GridCell.Tab.0.bottom" timestamp="1587724844101">
+    <state x="571" y="321" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.860@0.0.1440.860" timestamp="1587884108936" />
+    <state width="1396" height="210" key="GridCell.Tab.0.bottom" timestamp="1587885836163">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1396" height="126" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1587724844101" />
-    <state width="1396" height="126" key="GridCell.Tab.0.center" timestamp="1587724844101">
+    <state width="1396" height="210" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1587885836163" />
+    <state width="1396" height="210" key="GridCell.Tab.0.center" timestamp="1587885836163">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1396" height="126" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1587724844101" />
-    <state width="1396" height="126" key="GridCell.Tab.0.left" timestamp="1587724844101">
+    <state width="1396" height="210" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1587885836163" />
+    <state width="1396" height="210" key="GridCell.Tab.0.left" timestamp="1587885836163">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1396" height="126" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1587724844101" />
-    <state width="1396" height="126" key="GridCell.Tab.0.right" timestamp="1587724844101">
+    <state width="1396" height="210" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1587885836163" />
+    <state width="1396" height="210" key="GridCell.Tab.0.right" timestamp="1587885836163">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1396" height="126" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1587724844101" />
-    <state x="250" y="87" key="Maven.ArtifactSearchDialog" timestamp="1587724655469">
+    <state width="1396" height="210" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1587885836163" />
+    <state x="519" y="209" key="chooseDestDirectoryDialog" timestamp="1587884321618">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="250" y="87" key="Maven.ArtifactSearchDialog/0.0.1440.860@0.0.1440.860" timestamp="1587724655469" />
-    <state x="223" y="61" key="SettingsEditor" timestamp="1587722897042">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state x="223" y="61" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1587722897042" />
-    <state x="383" y="180" key="search.everywhere.popup" timestamp="1587722159824">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state x="383" y="180" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1587722159824" />
+    <state x="519" y="209" key="chooseDestDirectoryDialog/0.0.1440.860@0.0.1440.860" timestamp="1587884321618" />
   </component>
 </project>

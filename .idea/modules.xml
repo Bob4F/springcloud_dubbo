@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/dubbo-consumer/consumer-service/consumer-service.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/dubbo-consumer/consumer-service/consumer-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dubbo.iml" filepath="$PROJECT_DIR$/.idea/dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/dubbo-consumer/dubbo-consumer.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/dubbo-consumer/dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/provider/provider.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/provider/provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/provider/provider-api/provider-api.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/provider/provider-api/provider-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/provider/provider-service/provider-service.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/provider/provider-service/provider-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba-dubbo-core/spring-cloud-alibaba-dubbo-core.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-core/spring-cloud-alibaba-dubbo-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/parent/spring-cloud-alibaba-dubbo-dependencies.iml" filepath="$PROJECT_DIR$/parent/spring-cloud-alibaba-dubbo-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/spring-cloud-alibaba-dubbo-examples.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/spring-cloud-alibaba-dubbo-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba-dubbo-nacos/spring-cloud-alibaba-dubbo-nacos.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-nacos/spring-cloud-alibaba-dubbo-nacos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba-dubbo-starter/spring-cloud-alibaba-dubbo-starter.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-starter/spring-cloud-alibaba-dubbo-starter.iml" />
     </modules>
   </component>
 </project>
